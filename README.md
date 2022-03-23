@@ -1,6 +1,6 @@
 # A Virtual Rock Paper Scissors Game
 
-A virtual version of rock scissors! The game is about two players fight by choosing an option and comparing their choices. Two players will win, lose, or draw by their choices. Keep playing until one player has lost as no life to continue to fight!
+A virtual version of rock scissors! The Monster Hunter (Player) and The Monster compete by choosing an option and comparing their choices. The game is win, lose, or draw - the loser a ilfe. Keep playing until one player has no lives left to live.
 
 ## Project Roadmap File
 [Project roadmap Google Doc line](https://docs.google.com/document/d/14pHsxrGpyVzoB4Srbl0TIMwBpp2vYdRyMEpFN_yiB3c/edit?usp=sharing)
